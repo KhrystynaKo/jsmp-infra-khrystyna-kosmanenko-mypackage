@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.epam.com:khrystyna_kosmanenko/node-js.git"
+    "url": "https://github.com/KhrystynaKo/jsmp-infra-khrystyna-kosmanenko-mypackage"
   },
   "author": "Khrystyna Komanenko",
   "license": "ISC",
