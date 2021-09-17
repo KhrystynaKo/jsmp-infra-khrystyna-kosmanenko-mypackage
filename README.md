@@ -10,7 +10,7 @@ Open a Terminal in the project root and run:
 
 **Usage**
 
-`import createSectionList from 'jsmp-infra-khrystyna-kosmanenko-mypackage';`
+`import { createSectionList } from 'jsmp-infra-khrystyna-kosmanenko-mypackage';`
 
 `createSectionList(['Anna', 'Loren', 'Katy', 'Anabel', 'Leo']); `
 
