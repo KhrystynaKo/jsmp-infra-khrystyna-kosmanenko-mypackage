@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "main": "dist/index.js",
   "scripts": {
-    "compile": "babel src --out-dir dist --extensions '.ts,.tsx'",
-    "clean": "rm -rf dist",
+    "compile": "babel src --out-dir lib --extensions '.ts,.tsx'",
+    "clean": "rm -rf lib",
     "tsc": "tsc",
     "test:unit": "jest --config jestconfig.json",
-    "start": "npm run clean && npm run compile && npm test:unit"
+    "start": "npm run clean && npm run compile && npm run test:unit"
   },
   "repository": {
     "type": "git",
